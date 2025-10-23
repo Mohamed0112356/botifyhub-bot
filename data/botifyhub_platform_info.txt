@@ -1,0 +1,54 @@
+﻿# BotifyHub Platform Information
+
+## COMPANY OVERVIEW
+BotifyHub is a global AI automation company developing real, fully functional bots to help businesses and individuals automate their daily operations. We're building a unified marketplace for verified AI bots and digital products.
+
+## OUR UNIQUE APPROACH
+BotifyHub uniquely combines a marketplace for independent bot creators with direct in-house development and sales — enabling rapid deployment of high-quality bots for enterprise clients while maintaining a commission-driven ecosystem for external developers.
+
+## VISION & MISSION
+**Vision:** To become the leading platform for AI Bots and no-code automation tools, hosting a secure, enterprise-grade marketplace for digital products and AI-driven solutions.
+
+**Mission:** To empower both individual creators and businesses worldwide to build, deploy, and maintain bots effortlessly, while ensuring privacy, reliability, and continuous innovation.
+
+## PLATFORM OPERATIONS
+
+### How BotifyHub Works
+**For Marketplace:**
+- Sellers upload bots through our secure management portal
+- Automated compliance and security checks ensure code safety
+- Buyers browse the marketplace and purchase bots with verified trust badges
+- Multi-platform deployment (Telegram, Discord, Web, and APIs)
+
+**For In-House Services:**
+- Users can create bots via no-code templates
+- Option to request fully coded enterprise solutions
+- Continuous updates maintained by sellers and our internal development team
+
+### Bot Categories
+**Enterprise Bots:** Customer service, marketing, operations, workflow automation
+**Creator Bots:** Content scheduling, social media management, optimization
+**Personal Bots:** Task organization, reminders, personal productivity
+
+### Update System
+- Sellers push updates securely through the platform
+- All updates undergo automated security and code validation
+- Buyers can choose auto-updates, manual updates, or rollback options
+- Version tracking and transparency ensure full control
+
+## SECURITY & INFRASTRUCTURE
+**Security Features:**
+- Automated security and compliance scanning for every release
+- Static code analysis and sandbox testing for all bot updates
+- Version control with full rollback support
+- No direct seller access to buyer data or environments
+- Continuous monitoring and audit trails
+
+**Technology Stack:**
+- Backend: .NET Core with microservices and containerized architecture
+- Frontend: Blazor and React for interactive user experience
+- Infrastructure: Google Cloud Platform with multi-region support
+- Scaling: Horizontal scaling to support thousands of bots concurrently
+
+## COMPANY LOCATION
+We operate as a remote-first company with a registered legal entity and small administrative presence in Saudi Arabia, providing credibility and accessibility for regional partners and clients.
